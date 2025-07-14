@@ -3,6 +3,7 @@
 *workspace.xml
 
 # Compiled files
+/MT2-project-ImageProcessing/plugins/
 *.class
 
 # Archives
